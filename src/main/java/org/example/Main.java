@@ -18,6 +18,8 @@ public class Main {
             if (rebano1[i]==false) wolvesNumber ++;
             }
 
-        System.out.println("There are "+sheepsNumber+" sheep in total\n");
-        }
+
+        System.out.println("There are "+sheepsNumber+" sheep in total");
+        System.out.println("UPS!!! Wolfs eaten Sheeps");
+    }
     }
